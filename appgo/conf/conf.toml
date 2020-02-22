@@ -47,7 +47,7 @@
         dialect = "mysql"
         addr = "127.0.0.1:3306"
         username = "root"
-        password = "root"
+        password = "123456"
         db = "egoshop"
         charset = "utf8"
         parseTime = "True"
