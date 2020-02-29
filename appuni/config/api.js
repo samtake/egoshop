@@ -1,4 +1,4 @@
-let host = ""
+let host = "http://127.0.0.1:9001/"
 
 import ConfigDev from './config-dev.js';
 import ConfigProd from './config-prod.js';

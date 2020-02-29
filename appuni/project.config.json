@@ -10,8 +10,10 @@
 	},
 	"miniprogramRoot": "dist/dev/mp-weixin/",
 	"compileType": "miniprogram",
-	"appid": "wxd2aca855933b7c2e",
+	"appid": "wx9e272db237336a59",
 	"projectname": "appuni",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

@@ -33,6 +33,7 @@
     "@dcloudio/uni-mp-toutiao": "^2.0.0-24220191115011",
     "@dcloudio/uni-mp-weixin": "^2.0.0-24220191115011",
     "@dcloudio/uni-stat": "^2.0.0-24220191115011",
+    "cross-env": "^7.0.0",
     "flyio": "^0.6.2",
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.10",
@@ -43,7 +44,7 @@
     "@dcloudio/uni-cli-shared": "^2.0.0-24220191115011",
     "@dcloudio/uni-template-compiler": "^2.0.0-24220191115011",
     "@dcloudio/vue-cli-plugin-hbuilderx": "^2.0.0-24220191115011",
-    "@dcloudio/vue-cli-plugin-uni": "^2.0.0-24220191115011",
+    "@dcloudio/vue-cli-plugin-uni": "^2.0.0-alpha-26320200227002",
     "@dcloudio/vue-cli-plugin-uni-optimize": "^2.0.0-24220191115011",
     "@dcloudio/webpack-uni-mp-loader": "^2.0.0-24220191115011",
     "@dcloudio/webpack-uni-pages-loader": "^2.0.0-24220191115011",
@@ -55,8 +56,8 @@
     "mini-types": "*",
     "miniprogram-api-typings": "^2.8.0-2",
     "postcss-comment": "^2.0.0",
-    "vue-template-compiler": "^2.6.10",
-    "sass-loader": "^8.0.0"
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
   },
   "browserslist": [
     "Android >= 4",
